@@ -6,7 +6,7 @@
 
 - 👯 I'm looking for full time job as a data engineer opportunitites
 - 🤘 You can find various data engineering resource and POC on my profile
-- 🧑🏻🌱 I am currenly learning new technologies on data related and advancing my skills.
+- 🌱 I am currenly learning new technologies on data related and advancing my skills.
 - 👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some
      - AWS- Spotify Data Pipeline (ETL) Project Using Python
 Azure Adventure works end to end project with CICD
