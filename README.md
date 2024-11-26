@@ -12,6 +12,8 @@
 Azure Adventure works end to end project with CICD
 Building Data model and Database [Spotify_ETL_SnowFlake_PipeLine](https://github.com/Sateesh0364/Spotify_Snowflake_PipeLine)
 - 🎓 My Certifications and Courses
+    - Microsoft Certified Azure Data Engineer (DP-203)
+    - Microsoft Certified azure Data Fundamentals (DP-900)
     - Microsoft Certified: Azure Data Fundamentals.
     - PL 300 Power BI Certification
 - Connect with me:
